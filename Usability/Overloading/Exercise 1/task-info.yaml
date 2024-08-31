@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 55
+        length: 196
+        placeholder_text: // Implement class Dog
+        initial_state:
+          length: 22
+          offset: 54
+        initialized_from_dependency: false
+        encrypted_possible_answer: SuI6KRC64iqAK00HFVdFugun64kM6Wzw8eZqKOsW2voeQMx+e/mdRm3lwdszEKUQOe0RBbiQDsXVrzEvfiKT+UCiq1Wx8kPBAKc1Ud2zJiw28yWi56TfEndyx+cSmGDDlOh3BZ69T728Iik/+iOUWtrNm2SCZTfHmDk7DHs+Z8FxoAfWatsIkeH+u1LvO5yF
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Aug 2024 14:56:39 UTC"
+record: -1

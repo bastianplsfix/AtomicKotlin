@@ -1,0 +1,12 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  time: "Fri, 23 Aug 2024 11:34:39 UTC"
+record: -1
